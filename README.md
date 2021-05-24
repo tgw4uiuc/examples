@@ -23,4 +23,8 @@ Examples of recent classwork
 1. K-means clustering.  This implements a k-means clustering tool to decide which of several existing groups new datapoints should be clustered with.  Written in Python.
 
 
-2. Decision tree classifier.  This creates a height = 2 (root node and two layers of decision nodes) decision tree to classify data.  The tree is first trained to find the best attributes of the data to use for the decision points in the tree, and 
+
+
+2. Decision tree classifier.  This creates a height = 2 (root node and two layers of decision nodes) decision tree to classify data.  The tree is first trained to find the best attributes of the data to use for the decision points in the tree, and then test data is run through the resulting tree, and the data is classified based on the rules generated in the training phase.  Written in Python.
+
+
