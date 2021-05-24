@@ -20,7 +20,7 @@ Examples of recent classwork
  **Data Mining:**
     
 
-1. K-means clustering.  This implements a k-means clustering tool to decide which of several existing groups new datapoints should be clustered with.  Written in Python.
+1. K-means clustering.  This implements a k-means clustering tool to decide which of 3 clusters the datapoints should be assigned to.  Written in Python.
 
 
 
