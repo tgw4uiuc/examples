@@ -1,4 +1,4 @@
-Examples of recent classwork
+Examples of classwork
 
 **Data Visualization:**
 
