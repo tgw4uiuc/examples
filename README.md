@@ -1,4 +1,4 @@
-Examples of classwork
+Examples of classwork:
 
 **Data Visualization:**
 
