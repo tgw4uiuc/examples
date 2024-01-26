@@ -6,10 +6,6 @@ Document step by step the creation of a program to classify handwritten numerals
 
     https://github.com/tgw4uiuc/handwriting
 
-        
-
-1. K-means clustering.  This implements a k-means clustering tool to decide which of 3 clusters the datapoints should be assigned to.  Written in Python.
-
     https://github.com/tgw4uiuc/examples/tree/main/k-means
     
  **Data Mining:**
