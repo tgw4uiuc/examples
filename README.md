@@ -3,7 +3,7 @@ Examples of classwork:
  **Machine Learning:**
 Document step by step the creation of a program to classify handwritten numerals.  Use the MNIST standard dataset to train and test.  Use scikit-learn modules as necessary.  Can an accuracy of greater than 95% accuracy be achieved on the test data?
 
-    https://github.com/tgw4uiuc/handwriting/blob/main/Handwriting%20Recognition.pdf
+    https://github.com/tgw4uiuc/handwriting/
     
     
  **Data Mining:**
