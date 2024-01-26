@@ -4,8 +4,7 @@ Examples of classwork:
  
 Document step by step the creation of a program to classify handwritten numerals.  Use the MNIST standard dataset to train and test.  Use scikit-learn modules as necessary.  Can an accuracy of greater than 95% accuracy be achieved on the test data?
 
-    https://github.com/tgw4uiuc/handwriting
-
+1. Document step by step the creation of a program to classify handwritten numerals.  Use the MNIST standard dataset to train and test.  Use scikit-learn modules as necessary.  Can an accuracy of greater than 95% accuracy be achieved on the test data?
     https://github.com/tgw4uiuc/examples/tree/main/k-means
     
  **Data Mining:**
